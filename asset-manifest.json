@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/miniblog-page/static/css/main.9ff811d3.chunk.css",
+    "main.js": "/miniblog-page/static/js/main.d6e16855.chunk.js",
+    "main.js.map": "/miniblog-page/static/js/main.d6e16855.chunk.js.map",
+    "runtime-main.js": "/miniblog-page/static/js/runtime-main.248fefff.js",
+    "runtime-main.js.map": "/miniblog-page/static/js/runtime-main.248fefff.js.map",
+    "static/js/2.1469ce88.chunk.js": "/miniblog-page/static/js/2.1469ce88.chunk.js",
+    "static/js/2.1469ce88.chunk.js.map": "/miniblog-page/static/js/2.1469ce88.chunk.js.map",
+    "index.html": "/miniblog-page/index.html",
+    "precache-manifest.2764235e1236675da018c81da0516612.js": "/miniblog-page/precache-manifest.2764235e1236675da018c81da0516612.js",
+    "service-worker.js": "/miniblog-page/service-worker.js",
+    "static/css/main.9ff811d3.chunk.css.map": "/miniblog-page/static/css/main.9ff811d3.chunk.css.map",
+    "static/js/2.1469ce88.chunk.js.LICENSE": "/miniblog-page/static/js/2.1469ce88.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.248fefff.js",
+    "static/js/2.1469ce88.chunk.js",
+    "static/css/main.9ff811d3.chunk.css",
+    "static/js/main.d6e16855.chunk.js"
+  ]
+}
